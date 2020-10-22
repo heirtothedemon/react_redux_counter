@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    font-size: 1.6rem;
+}
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.changeButton{
+    font-size: 25px;
+    background-color: chartreuse;
+    border-radius: 5px;
+    color:black;
+    padding: 0px 10px;
+    margin: 0px 20px;
+}
+.count{
+    font-size: 25px;
+    color: aqua;
+}
+.reset{
+    font-size: 12px;
+    padding: 5px 10px;
+    background-color: brown;
+    color: beige;
+}
